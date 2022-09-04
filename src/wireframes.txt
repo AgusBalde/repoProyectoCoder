@@ -1,0 +1,14 @@
+desktop:
+https://wireframe.cc/3fJ1uA (index)
+https://wireframe.cc/Ja2Vhu (productos)
+https://wireframe.cc/IyccmH (Lo mas visto)
+https://wireframe.cc/p0RLQG (oferta)
+https://wireframe.cc/x7brOw (Contacto)
+
+mobile:
+https://wireframe.cc/09O8cU (index)
+https://wireframe.cc/Dwpqnh (Productos)
+https://wireframe.cc/7qOOMF (Lo mas visto)
+https://wireframe.cc/NgK6g7 (ofertas)
+https://wireframe.cc/U1bHap (contacto)
+
